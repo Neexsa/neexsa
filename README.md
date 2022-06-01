@@ -1,4 +1,4 @@
-# htg
+# Neexsa
 
 ## Project setup
 ```
